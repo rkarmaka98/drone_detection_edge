@@ -21,7 +21,7 @@ A complete real-time drone detection system using OpenMV camera with local proce
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/openmv-drone-detection.git
+git clone https://github.com/rkarmaka98/openmv-drone-detection.git
 cd openmv-drone-detection
 
 # Install Python dependencies
